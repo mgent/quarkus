@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/mgent/quarkus)
+
 # quarkus project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
